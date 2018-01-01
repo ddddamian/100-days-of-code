@@ -7,7 +7,7 @@
 
 **Thoughts:** I enjoyed doing the "Team Stats" project which allowed me to practice defining objects in JavaScript.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Team Stats](https://github.com/ddddamian/myCodecademyFiles/blob/master/teamStats.js)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
