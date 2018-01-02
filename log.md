@@ -3,7 +3,7 @@
 ### Day 0: January 01, 2018 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Officially started 100 days of code. Did "Team Stats" freeform project from CODECADEMY. Added comments to 
+**Today's Progress**: Officially started 100 days of code. Did "Team Stats" freeform project from CODECADEMY. Added comments to "Meal Maker" project.
 
 **Thoughts:** I enjoyed doing the "Team Stats" project which allowed me to practice defining objects in JavaScript.
 
