@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 01, 2018 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 01, 2018
 
 **Today's Progress**: Officially started 100 days of code. Did "Team Stats" freeform project from CODECADEMY. Added comments to "Meal Maker" project.
 
@@ -9,14 +8,13 @@
 
 **Link to work:** [Team Stats](https://github.com/ddddamian/myCodecademyFiles/blob/master/teamStats.js)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 02, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Did a CODECADEMY lesson on JS classes. Started reading 'The PHOENIX PROJECT'. Read Chapter 1.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Made good progress on classes. The book seems like a good insight into working in the world of IT. So far, so good.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Classes](https://github.com/ddddamian/myCodecademyFiles/blob/master/classes-interactiveLesson.js)
 
 
 ### Day 1: June 27, Monday
