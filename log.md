@@ -21,7 +21,7 @@
 
 **Today's Progress**: Started the "Build a Library" freeform project on "codecademy". Read chapters 2, 3 & 4 of "The PHOENIX PROJECT".
 
-**Thoughts** ...
+**Thoughts** Start to implement learning on JS classes.
 
 **Link(s) to work**: [Build a Library](https://github.com/ddddamian/myCodecademyFiles/blob/master/buildALibrary.js)
 
