@@ -8,6 +8,8 @@
 
 **Link to work:** [Team Stats](https://github.com/ddddamian/myCodecademyFiles/blob/master/teamStats.js)
 
+
+
 ### Day 2: January 02, 2018
 
 **Today's Progress**: Did a CODECADEMY lesson on JS classes. Started reading 'The PHOENIX PROJECT'. Read Chapter 1.
@@ -15,6 +17,7 @@
 **Thoughts**: Made good progress on classes. The book seems like a good insight into working in the world of IT. So far, so good.
 
 **Link(s) to work**: [Classes](https://github.com/ddddamian/myCodecademyFiles/blob/master/classes-interactiveLesson.js)
+
 
 
 ### Day 3: January 03, 2018
@@ -25,6 +28,8 @@
 
 **Link(s) to work**: [Build a Library](https://github.com/ddddamian/myCodecademyFiles/blob/master/buildALibrary.js)
 
+
+
 ### Day 4: January 04, 2018
 
 **Today's Progress**: Started the "School Catalogue" freeform project on "codecademy". 
@@ -33,3 +38,12 @@
 
 **Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
 
+
+
+### Day 5: January 05, 2018
+
+**Today's Progress**: Started... 
+
+**Thoughts** Continuing....
+
+**Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/xxxxxx.js)
