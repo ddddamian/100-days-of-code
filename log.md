@@ -25,3 +25,11 @@
 
 **Link(s) to work**: [Build a Library](https://github.com/ddddamian/myCodecademyFiles/blob/master/buildALibrary.js)
 
+### Day 4: January 04, 2018
+
+**Today's Progress**: Started the "School Catalogue" freeform project on "codecademy". 
+
+**Thoughts** Continuing to implement learning on JS classes.
+
+**Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
+
