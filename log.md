@@ -2,7 +2,7 @@
 
 ### Day 1: January 01, 2018
 
-**Today's Progress**: Officially started 100 days of code. Did "Team Stats" freeform project from CODECADEMY. Added comments to "Meal Maker" project.
+**Today's Progress**: Officially started 100 days of code. Did "Team Stats" freeform project from "codecademy". Added comments to "Meal Maker" project.
 
 **Thoughts:** I enjoyed doing the "Team Stats" project which allowed me to practice defining objects in JavaScript.
 
@@ -12,7 +12,7 @@
 
 ### Day 2: January 02, 2018
 
-**Today's Progress**: Did a CODECADEMY lesson on JS classes. Started reading 'The PHOENIX PROJECT'. Read Chapter 1.
+**Today's Progress**: Did a "codecademy" lesson on JS classes. Started reading 'The PHOENIX PROJECT'. Read Chapter 1.
 
 **Thoughts**: Made good progress on classes. The book seems like a good insight into working in the world of IT. So far, so good.
 
@@ -42,8 +42,8 @@
 
 ### Day 5: January 05, 2018
 
-**Today's Progress**: Started... 
+**Today's Progress**: Did some more work on the "School Catalogue" freeform project on "codecademy". 
 
 **Thoughts** Continuing....
 
-**Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/xxxxxx.js)
+**Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
