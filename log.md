@@ -42,7 +42,7 @@
 
 ### Day 5: January 05, 2018
 
-**Today's Progress**: Did some more work on the "School Catalogue" freeform project on "codecademy". 
+**Today's Progress**: Did some more work on the "School Catalogue" freeform project on "codecademy". Read chapter 5 of "The Phoenix Project".
 
 **Thoughts** Continuing....
 
