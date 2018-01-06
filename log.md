@@ -54,6 +54,6 @@
 
 **Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Started "codecademy" lesson on "Browser Compatibility and Transpilation". Read chapter ... of "The Phoenix Project".
 
-**Thoughts** Continuing....
+**Thoughts** Interesting to see how you transpile to ES5 using Babel.
 
 **Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
