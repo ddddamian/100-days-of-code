@@ -47,3 +47,13 @@
 **Thoughts** Continuing....
 
 **Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
+
+
+
+### Day 6: January 06, 2018
+
+**Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Read chapter ... of "The Phoenix Project".
+
+**Thoughts** Continuing....
+
+**Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
