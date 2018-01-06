@@ -52,7 +52,7 @@
 
 ### Day 6: January 06, 2018
 
-**Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Read chapter ... of "The Phoenix Project".
+**Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Started "codecademy" lesson on "Browser Compatibility and Transpilation". Read chapter ... of "The Phoenix Project".
 
 **Thoughts** Continuing....
 
