@@ -63,7 +63,7 @@
 
 ### Day 7: January 07, 2018
 
-**Today's Progress**: Did the "Transpilation" free form project on "codecademy". Also did the transpilation quiz. Read "Web Designer" magazine and "net" magazine. Read chapter ... of "The Phoenix Project".
+**Today's Progress**: Did the "Transpilation" free form project on "codecademy". Also did the transpilation quiz. Read "Web Designer" magazine and "net" magazine. Read chapters 8 & 9 of "The Phoenix Project".
 
 **Thoughts** Found it difficult to remember how you transpile to ES5 using Babel, without referring to notes. Needs more work.
 
