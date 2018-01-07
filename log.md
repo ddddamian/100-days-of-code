@@ -52,9 +52,19 @@
 
 ### Day 6: January 06, 2018
 
-**Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Started "codecademy" lesson on "Browser Compatibility and Transpilation". Read chapter ... of "The Phoenix Project".
+**Today's Progress**: Finished work on the "School Catalogue" freeform project on "codecademy". Started "codecademy" lesson on "Browser Compatibility and Transpilation". 
 
 **Thoughts** Interesting to see how you transpile to ES5 using Babel.
 
 **Link(s) to work**: [School Catalogue](https://github.com/ddddamian/myCodecademyFiles/blob/master/schoolCatalogue.js)
 **Link(s) to work**: [Browser Transpilation](https://github.com/ddddamian/myCodecademyFiles/blob/master/browserTranspilation.js)
+
+
+
+### Day 7: January 07, 2018
+
+**Today's Progress**: Did the "Transpilation" free form project on "codecademy". Read chapter "Web Designer" magazine and "net" magazine. Read chapter ... of "The Phoenix Project".
+
+**Thoughts** Found it difficult to remember how you transpile to ES5 using Babel, without referring to notes. Needs more work.
+
+**Link(s) to work**: [Transpilation](https://github.com/ddddamian/myCodecademyFiles/blob/master/Transpilation.js)
