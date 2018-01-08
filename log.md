@@ -63,8 +63,18 @@
 
 ### Day 7: January 07, 2018
 
-**Today's Progress**: Did the "Transpilation" free form project on "codecademy". Also did the transpilation quiz. Read "Web Designer" magazine and "net" magazine. Read chapters 8 & 9 of "The Phoenix Project".
+**Today's Progress**: Did the "Transpilation" free form project on "codecademy". Also did the transpilation quiz. Started learning about modules in JS. Started learning VueJS. Read "Web Designer" magazine and "net" magazine. Read chapters 8 & 9 of "The Phoenix Project".
 
 **Thoughts** Found it difficult to remember how you transpile to ES5 using Babel, without referring to notes. Needs more work.
 
 **Link(s) to work**: [Transpilation](https://github.com/ddddamian/myCodecademyFiles/blob/master/Transpilation.js)
+
+
+
+### Day 8: January 08, 2018
+
+**Today's Progress**: Started the Udemy course "Vue JS 2 - The Complete Guide". Completed the first exercise. freeCodeCamp meetup this evening.
+
+**Thoughts** Enjoying Vue JS so far. 
+
+**Link(s) to work**: [Exercise1](https://github.com/ddddamian/myCodecademyFiles/blob/master/Transpilation.js)
