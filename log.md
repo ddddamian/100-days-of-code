@@ -78,3 +78,17 @@
 **Thoughts** Enjoying Vue JS so far. 
 
 **Link(s) to work**: [Exercise1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise1.html)
+
+
+
+### Day 9: January 09, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the second exercise.
+
+**Thoughts** Enjoying Vue JS so far. 
+
+**Link(s) to work**: [Exercise2](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise2.html)
+
+
+
+
