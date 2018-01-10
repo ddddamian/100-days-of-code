@@ -91,4 +91,14 @@
 
 
 
+### Day 9: January 09, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the third exercise. Read...
+
+**Thoughts** Enjoying Vue JS so far. 
+
+**Link(s) to work**: [Exercise3](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise3.html)
+
+
+
 
