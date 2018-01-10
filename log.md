@@ -93,7 +93,7 @@
 
 ### Day 10: January 10, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the third exercise. Listened to EP12 of the "freecodecamp" podcast. Read...
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the third exercise. Listened to EP12 of the "freecodecamp" podcast. Read chapters 10 & 11 of "The Phoenix Project".
 
 **Thoughts** Enjoying Vue JS so far. 
 
