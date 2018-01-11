@@ -102,3 +102,14 @@
 
 
 
+### Day 11: January 11, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fourth exercise. Read chapters... of "The Phoenix Project".
+
+**Thoughts** The VueJS course is getting harder. Struggled with the exercise on css styles. 
+
+**Link(s) to work**: [Exercise4](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise4.html)
+
+
+
+
