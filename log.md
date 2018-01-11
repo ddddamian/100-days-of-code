@@ -83,7 +83,7 @@
 
 ### Day 9: January 09, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the second exercise. Did a "codecademy" lesson on JS modules.
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the second exercise. Did a "codecademy" lesson on JS modules. Read chapters 10 & 11 of "The Phoenix Project".
 
 **Thoughts** Enjoying Vue JS so far. 
 
@@ -93,7 +93,7 @@
 
 ### Day 10: January 10, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the third exercise. Listened to EP12 of the "freecodecamp" podcast. Read chapters 10 & 11 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the third exercise. Listened to EP12 of the "freecodecamp" podcast. Read chapters 12 & 13 of "The Phoenix Project".
 
 **Thoughts** Enjoying Vue JS so far. 
 
@@ -104,7 +104,7 @@
 
 ### Day 11: January 11, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fourth exercise. Read chapters... of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fourth exercise. Read chapters 14 & 15 of "The Phoenix Project".
 
 **Thoughts** The VueJS course is getting harder. Struggled with the exercise on css styles. 
 
