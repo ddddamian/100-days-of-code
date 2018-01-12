@@ -114,7 +114,7 @@
 
 ### Day 12: January 12, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fifth exercise. Read chapters ... of "The Phoenix Project". Started learning C# through "treehouse".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fifth exercise. Read chapter 16 of "The Phoenix Project". Started learning C# through "treehouse".
 
 **Thoughts** Enjoyed the Vue section on conditionals.
 
