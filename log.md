@@ -119,7 +119,7 @@
 **Thoughts** Enjoying the project. It's fun to see what can be created with VueJS.
 
 **Link(s) to work**: [Exercise 5](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
-**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
+**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
 
 
 
