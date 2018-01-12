@@ -114,11 +114,12 @@
 
 ### Day 12: January 12, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fifth exercise. Read chapter 16 of "The Phoenix Project". Started learning C# through "treehouse".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fifth exercise. Started the first project to create a "Monster Slayer" game. Read chapter 16 of "The Phoenix Project". Started learning C# through "treehouse".
 
-**Thoughts** Enjoyed the Vue section on conditionals.
+**Thoughts** Enjoying the project. It's fun to see what can be created with VueJS.
 
 **Link(s) to work**: [Exercise 5](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
+**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
 
 
 
