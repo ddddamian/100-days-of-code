@@ -77,7 +77,7 @@
 
 **Thoughts** Enjoying Vue JS so far. 
 
-**Link(s) to work**: [Exercise1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise1.html)
+**Link(s) to work**: [Exercise 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise1.html)
 
 
 
@@ -87,7 +87,7 @@
 
 **Thoughts** Enjoying Vue JS so far. 
 
-**Link(s) to work**: [Exercise2](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise2.html)
+**Link(s) to work**: [Exercise 2](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise2.html)
 
 
 
@@ -97,18 +97,28 @@
 
 **Thoughts** Enjoying Vue JS so far. 
 
-**Link(s) to work**: [Exercise3](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise3.html)
+**Link(s) to work**: [Exercise 3](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise3.html)
 
 
 
 
 ### Day 11: January 11, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fourth exercise. Read chapters 14 & 15 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fourth exercise. Read chapters 14 & 15 of "The Phoenix Project". 
 
 **Thoughts** The VueJS course is getting harder. Struggled with the exercise on css styles. 
 
-**Link(s) to work**: [Exercise4](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise4.html)
+**Link(s) to work**: [Exercise 4](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise4.html)
+
+
+
+### Day 12: January 12, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the fifth exercise. Read chapters ... of "The Phoenix Project". Started learning C# through "treehouse".
+
+**Thoughts** Enjoyed the Vue section on conditionals.
+
+**Link(s) to work**: [Exercise 5](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
 
 
 
