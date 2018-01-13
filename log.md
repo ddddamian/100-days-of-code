@@ -124,5 +124,16 @@
 
 
 
+### Day 13: January 13, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the first project - a "Monster Slayer" game. Read chapter 17 of "The Phoenix Project". 
+
+**Thoughts** Enjoying the project. It's fun to see what can be created with VueJS.
+
+**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
+
+
+
+
 
 
