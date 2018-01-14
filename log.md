@@ -137,9 +137,19 @@
 
 ### Day 14: January 14, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Completed the first project - a "Monster Slayer" game. Read chapter 19 & 20 of "The Phoenix Project". 
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 5. Lernt C# conditionals on "treehouse". Read chapter 19 & 20 of "The Phoenix Project". 
 
 **Thoughts** Enjoying the project. It's fun to see what can be created with VueJS.
+
+**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
+
+
+
+### Day 15: January 15, 2018
+
+**Today's Progress**: "freeCodeCamp" meetup. 
+
+**Thoughts** Um...
 
 **Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
 
