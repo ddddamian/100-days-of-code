@@ -147,7 +147,7 @@
 
 ### Day 15: January 15, 2018
 
-**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. "Codecademy" quiz on JS modules. Did some more C# on "Treehouse". 
+**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. "Codecademy" quiz on JS modules. Did some more C# on "Treehouse". Read chapter 21 of "The Phoenix Project".
 
 **Thoughts** Um...
 
