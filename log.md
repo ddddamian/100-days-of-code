@@ -137,7 +137,7 @@
 
 ### Day 14: January 14, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 6. Learnt C# conditionals on "treehouse". Read chapter 19 & 20 of "The Phoenix Project". 
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 5. Learnt C# conditionals on "treehouse". Read chapter 19 & 20 of "The Phoenix Project". 
 
 **Thoughts** Enjoying the book. It's showing the problems with chaotic working practices.
 
@@ -147,7 +147,7 @@
 
 ### Day 15: January 15, 2018
 
-**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. "Codecademy" quiz on JS modules. Did some more C# on "Treehouse". Read chapter 21 of "The Phoenix Project".
+**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 6. "Codecademy" quiz on JS modules. Did some more C# on "Treehouse". Read chapter 21 of "The Phoenix Project".
 
 **Thoughts** Um...
 
