@@ -147,11 +147,11 @@
 
 ### Day 15: January 15, 2018
 
-**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 7.
+**Today's Progress**: "freeCodeCamp" meetup. Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. "Codecademy" quiz on JS modules. Did some more C# on "Treehouse". 
 
 **Thoughts** Um...
 
-**Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs)
 
 
 
