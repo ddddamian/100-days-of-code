@@ -157,7 +157,17 @@
 
 ### Day 16: January 16, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. Did some more C# on "Treehouse" - added exception handling. Read chapter 22 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. Did some more C# on "Treehouse" - added exception handling. 
+
+**Thoughts** Um...
+
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs
+
+
+
+### Day 17: January 17, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. Did exercise 6. Did some more C# on "Treehouse" - added exception handling. Read chapter 22 of "The Phoenix Project".
 
 **Thoughts** Um...
 
