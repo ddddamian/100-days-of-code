@@ -167,7 +167,7 @@
 
 ### Day 17: January 17, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started exercise. Did some more C# on "Treehouse" - added exception handling. Read chapter 22 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started exercise 6. Did some more C# on "Treehouse" - refactored code. Read chapter 22 of "The Phoenix Project".
 
 **Thoughts** Um...
 
