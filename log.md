@@ -120,7 +120,7 @@
 
 **Link(s) to work**: [Exercise 5](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/exercise5.html)
 **Link(s) to work**: [Project 1](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/blob/master/project1/index.html)
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs)
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
 
 
@@ -141,7 +141,7 @@
 
 **Thoughts** Enjoying the book. It's showing the problems with chaotic working practices.
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs)
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
 
 
@@ -151,7 +151,7 @@
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs)
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
 
 
@@ -161,17 +161,17 @@
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
 
 
 ### Day 17: January 17, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started section 7. Did exercise 6. Did some more C# on "Treehouse" - added exception handling. Read chapter 22 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started exercise. Did some more C# on "Treehouse" - added exception handling. Read chapter 22 of "The Phoenix Project".
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/Program.cs
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
 
 
