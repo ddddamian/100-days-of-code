@@ -177,7 +177,7 @@
 
 ### Day 18: January 18, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished exercise 6. Did some more C# on "Treehouse" - objects. Read chapter 23 of "The Phoenix Project".
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished exercise 6. Did some more C# on "Treehouse" - objects. Read chapter 23 of "The Phoenix Project". Listened to episode 13 of the "freeCodeCamp" podcast.
 
 **Thoughts** Um...
 
