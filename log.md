@@ -185,3 +185,11 @@
 
 
 
+### Day 19: January 19, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished exercise 6. Did some more C# on "Treehouse" - objects. Read chapter 29 of "The Phoenix Project". 
+
+**Thoughts** Um...
+
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
+
