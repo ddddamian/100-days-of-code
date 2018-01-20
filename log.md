@@ -181,7 +181,7 @@
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
+
 
 
 
@@ -191,5 +191,22 @@
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
 
+
+
+### Day 20: January 20, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects. Read chapter xx of "The Phoenix Project". 
+
+**Thoughts** Um...
+
+
+
+
+### Day 21: January 21, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started exercise x. Did some more C# on "Treehouse" - objects. Read chapter xx of "The Phoenix Project".
+
+**Thoughts** Um...
+
+**Link(s) to work**: [xxxxx](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
