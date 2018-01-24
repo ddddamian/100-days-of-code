@@ -214,7 +214,7 @@
 
 ### Day 22: January 22, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished section 7. Read chapter 31 of "The Phoenix Project". 
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished section 7. 
 
 **Thoughts** Um...
 
@@ -225,6 +225,13 @@
 
 **Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Section 8.
 
+**Thoughts** Um...
+
+
+
+### Day 24: January 24, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Assignment 2. Did some more C# on "Treehouse" - objects. Read chapter 31 of "The Phoenix Project". 
 
 **Thoughts** Um...
 
