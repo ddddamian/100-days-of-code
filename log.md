@@ -235,3 +235,22 @@
 
 **Thoughts** Um...
 
+
+
+### Day 25: January 25, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Assignment 2. Did some more C# on "Treehouse" - objects. Read chapter 32 & 33 of "The Phoenix Project". 
+
+**Thoughts** Um...
+
+
+
+### Day 26: January 26, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects. Read DevOps section of "The Phoenix Project". 
+
+**Thoughts** Um...
+
+
+
+
