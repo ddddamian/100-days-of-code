@@ -253,4 +253,28 @@
 
 
 
+### Day 27: January 27, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Um...
+
+
+
+### Day 28: January 28, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Um...
+
+
+
+### Day 29: January 29, 2018
+
+**Today's Progress**: Listened to ep. 14 of the "freeCodeCamp" podcast. Talk @ TechHub Swansea about Agile - by Georgina from DevOpsGuys. Continued the "Vue JS 2 - The Complete Guide" course. Did some more C# on "Treehouse" - objects. 
+
+**Thoughts** Um...
+
+
+
 
