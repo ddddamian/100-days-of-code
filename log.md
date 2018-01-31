@@ -292,7 +292,18 @@
 
 **Thoughts** Um...
 
-**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
+**Link(s) to work**: [Project 2](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/tree/master/project2)
+
+
+
+
+### Day 01: February 01, 2018
+
+**Today's Progress**: Attended the "Design Swansea" meetup at TechHub Swansea. Continued the "Vue JS 2 - The Complete Guide" course - section 11. Listened to ...
+
+**Thoughts** Um...
+
+**Link(s) to work**: [Project 2](https://github.com/ddddamian/learning-vue-js-2-the-complete-guide/tree/master/project2)
 
 
 
