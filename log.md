@@ -277,4 +277,23 @@
 
 
 
+### Day 30: January 30, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Started the 2nd Project. 
+
+**Thoughts** Um...
+
+
+
+
+### Day 31: January 31, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished the 2nd Project. Listened to 4 episodes of "Command Line Heroes" podcast.
+
+**Thoughts** Um...
+
+**Link(s) to work**: [My first C# program](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/FitnessFrog.cs)
+
+
+
 
