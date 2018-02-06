@@ -297,7 +297,7 @@
 
 
 
-### Day 01: February 01, 2018
+### Day 32: February 01, 2018
 
 **Today's Progress**: Attended the "Design Swansea" meetup at TechHub Swansea.  Did some more C# on "Treehouse" - objects.
 
@@ -305,6 +305,46 @@
 
 
 
+### Day 33: February 02, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Last day in old job.
+
+
+
+### Day 34: February 03, 2018
+
+**Today's Progress**: No progress :-(
+
+**Thoughts** :-(
+
+
+
+### Day 35: February 04, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** 
+
+
+
+### Day 36: February 05, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** First day in new job!!! First job as a developer.
+
+
+
+
+### Day 31: January 31, 2018
+
+**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished the 2nd Project. Listened to 4 episodes of "Command Line Heroes" podcast.
+
+**Thoughts** Enjoyed the project
+
+**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
 
 
 
