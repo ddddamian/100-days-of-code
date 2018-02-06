@@ -325,7 +325,9 @@
 
 **Today's Progress**: Did some more C# on "Treehouse" - objects.
 
-**Thoughts** 
+**Thoughts** Start new job tomorrow.
+
+**Link(s) to work**: [Averager](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/Averager.cs)
 
 
 
@@ -335,14 +337,15 @@
 
 **Thoughts** First day in new job!!! First job as a developer.
 
+**Link(s) to work**: [Averager](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/Averager.cs)
 
 
 
-### Day 31: January 31, 2018
+### Day 37: February 06, 2018
 
-**Today's Progress**: Continued the "Vue JS 2 - The Complete Guide" course. Finished the 2nd Project. Listened to 4 episodes of "Command Line Heroes" podcast.
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
 
-**Thoughts** Enjoyed the project
+**Thoughts** Second day at the new job.
 
 **Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
 
