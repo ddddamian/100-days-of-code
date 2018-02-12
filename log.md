@@ -351,3 +351,61 @@
 
 
 
+### Day 38: February 07, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Third day at the new job.
+
+**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
+
+
+
+### Day 39: February 08, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Fourth day at the new job.
+
+**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
+
+
+
+
+### Day 40: February 09, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts** Fifth day at the new job.
+
+**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
+
+
+
+### Day 41: February 10, 2018
+
+**Today's Progress**: Learned some GIT
+
+**Thoughts** 
+
+
+
+### Day 42: February 11, 2018
+
+**Today's Progress**: Learned some GIT
+
+**Thoughts** 
+
+
+
+
+### Day 43: February 12, 2018
+
+**Today's Progress**: Learned some GIT
+
+**Thoughts** 
+
+
+
+
+
