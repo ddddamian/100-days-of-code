@@ -382,6 +382,7 @@
 
 
 
+
 ### Day 41: February 10, 2018
 
 **Today's Progress**: Learned some GIT
@@ -401,9 +402,18 @@
 
 ### Day 43: February 12, 2018
 
-**Today's Progress**: Learned some GIT
+**Today's Progress**: Learned some GIT. "freeCodeCamp" Bridgend meetup.
 
-**Thoughts** 
+**Thoughts**:
+
+
+
+
+### Day 43: February 12, 2018
+
+**Today's Progress**: Learned some C#.
+
+**Thoughts**:
 
 
 
