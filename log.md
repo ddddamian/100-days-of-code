@@ -417,5 +417,57 @@
 
 
 
+### Day 44: February 13, 2018
 
+**Today's Progress**: Learned some C#.
+
+**Thoughts**:
+
+
+
+### Day 45: February 14, 2018
+
+**Today's Progress**: Learned some C#.
+
+**Thoughts**:
+
+
+
+### Day 46: February 15, 2018
+
+**Today's Progress**: Learned some C#. Started Wes Bos's JavaScript 30 course. Did project 1, which was to make a JS drumkit.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+### Day 47: February 16, 2018
+
+**Today's Progress**: Learned some C#. JS30 course - Did project 2, which was to make a clock.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+### Day 48: February 17, 2018
+
+**Today's Progress**: JS30 course - Did project 3, which was to play with CSS variables to make an image blurry, depending on a slider.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+### Day 49: February 18, 2018
+
+**Today's Progress**: JS30 course - Did project 4, which was to do with JS iterators.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+### Day 50: February 19, 2018
+
+**Today's Progress**: Learned some C#. JS30 course - Did project 5???
+
+**Thoughts**: JS30 looks like a fun course.
 
