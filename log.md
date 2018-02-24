@@ -439,6 +439,9 @@
 
 **Thoughts**: JS30 looks like a fun course.
 
+**Link(s) to work**: [JS30 lesson 1](https://github.com/ddddamian/JavaScript30/tree/master/01-JavaScript%20Drumkit)
+
+
 
 
 ### Day 47: February 16, 2018
@@ -446,6 +449,9 @@
 **Today's Progress**: Learned some C#. JS30 course - Did project 2, which was to make a clock.
 
 **Thoughts**: JS30 looks like a fun course.
+
+**Link(s) to work**: [JS30 lesson 2](https://github.com/ddddamian/JavaScript30/blob/master/02-JS%20and%20CSS%20Clock/index.html)
+
 
 
 
@@ -455,6 +461,9 @@
 
 **Thoughts**: JS30 looks like a fun course.
 
+**Link(s) to work**: [JS30 lesson 3](https://github.com/ddddamian/JavaScript30/blob/master/03-CSS%20Variables/index.html)
+
+
 
 
 ### Day 49: February 18, 2018
@@ -462,6 +471,9 @@
 **Today's Progress**: JS30 course - Did project 4, which was to do with JS iterators.
 
 **Thoughts**: JS30 looks like a fun course.
+
+**Link(s) to work**: [JS30 lesson 4](https://github.com/ddddamian/JavaScript30/blob/master/04-Array%20Cardio%20Day1/index.html)
+
 
 
 
@@ -505,6 +517,8 @@
 
 **Thoughts**: JS30 is a fun course.
 
+**Link(s) to work**: [JS30 lesson 6](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
+
 
 
 
@@ -514,5 +528,5 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
+**Link(s) to work**: [JS30 lesson 6](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
 
