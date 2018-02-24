@@ -499,9 +499,20 @@
 
 
 
-### Day 54: February 21, 2018
+### Day 54: February 23, 2018
 
-**Today's Progress**: Learned some C#. Read Net Magazine - January 2018 issue on holiday.
+**Today's Progress**: Learned some C#. Started JS30 lesson 6.
 
-**Thoughts**: JS30 looks like a fun course.
+**Thoughts**: JS30 is a fun course.
+
+
+
+
+### Day 54: February 24, 2018
+
+**Today's Progress**: Finished JS30 lesson 6.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [Arithmetic Calculator](https://github.com/ddddamian/C-sharp-basics_treehouse/blob/master/c-sharp-basics/ArithmeticCalculator.cs)
 
