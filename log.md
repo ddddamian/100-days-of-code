@@ -471,3 +471,37 @@
 
 **Thoughts**: JS30 looks like a fun course.
 
+
+
+### Day 51: February 20, 2018
+
+**Today's Progress**: Learned some C#. Read Net Magazine - January 2018 issue on holiday.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+### Day 52: February 21, 2018
+
+**Today's Progress**: Learned some C#. Read Net Magazine - January 2018 issue on holiday.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+
+### Day 53: February 22, 2018
+
+**Today's Progress**: Learned some C#. Read Net Magazine - January 2018 issue on holiday.
+
+**Thoughts**: JS30 looks like a fun course.
+
+
+
+
+### Day 54: February 21, 2018
+
+**Today's Progress**: Learned some C#. Read Net Magazine - January 2018 issue on holiday.
+
+**Thoughts**: JS30 looks like a fun course.
+
