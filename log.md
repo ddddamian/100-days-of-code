@@ -530,3 +530,24 @@
 
 **Link(s) to work**: [JS30 lesson 6](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
 
+
+
+### Day 55: February 25, 2018
+
+**Today's Progress**: Finished JS30 lesson 7.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 7](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
+
+
+
+
+### Day 56: February 26, 2018
+
+**Today's Progress**: Finished JS30 lesson 8. FreeCodeCamp meetup.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 8](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
+
