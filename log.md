@@ -538,7 +538,7 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [JS30 lesson 7](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
+**Link(s) to work**: [JS30 lesson 7](https://github.com/ddddamian/JavaScript30/blob/master/07-Array%20Cardio%20Day%202/index.html)
 
 
 
@@ -549,5 +549,5 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [JS30 lesson 8](https://github.com/ddddamian/JavaScript30/blob/master/06-Type%20Ahead/index.html)
+**Link(s) to work**: [JS30 lesson 8](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
 
