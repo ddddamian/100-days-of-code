@@ -522,7 +522,7 @@
 
 
 
-### Day 54: February 24, 2018
+### Day 55: February 24, 2018
 
 **Today's Progress**: Finished JS30 lesson 6.
 
@@ -532,7 +532,7 @@
 
 
 
-### Day 55: February 25, 2018
+### Day 56: February 25, 2018
 
 **Today's Progress**: Finished JS30 lesson 7.
 
@@ -543,7 +543,7 @@
 
 
 
-### Day 56: February 26, 2018
+### Day 57: February 26, 2018
 
 **Today's Progress**: Finished JS30 lesson 8. FreeCodeCamp meetup.
 
@@ -551,3 +551,33 @@
 
 **Link(s) to work**: [JS30 lesson 8](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
 
+
+
+### Day 58: February 27, 2018
+
+**Today's Progress**: Finished JS30 lesson 9.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 9](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
+
+
+
+
+### Day 59: February 28, 2018
+
+**Today's Progress**: Finished JS30 lesson 10.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 10](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
+
+
+
+### Day 60: March 01, 2018
+
+**Today's Progress**: Finished JS30 lesson 11.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 11](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
