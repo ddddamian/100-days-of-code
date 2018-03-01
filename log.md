@@ -559,7 +559,7 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [JS30 lesson 9](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
+**Link(s) to work**: [JS30 lesson 9](https://github.com/ddddamian/JavaScript30/blob/master/09-Dev%20Tools%20Domination/index.html)
 
 
 
@@ -570,7 +570,7 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [JS30 lesson 10](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
+**Link(s) to work**: [JS30 lesson 10](https://github.com/ddddamian/JavaScript30/blob/master/10-Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 
 
 
@@ -580,4 +580,4 @@
 
 **Thoughts**: JS30 is a fun course.
 
-**Link(s) to work**: [JS30 lesson 11](https://github.com/ddddamian/JavaScript30/blob/master/08-Fun%20with%20HTML5%20Canvas/index.html)
+**Link(s) to work**: [JS30 lesson 11](https://github.com/ddddamian/JavaScript30/tree/master/11-Custom%20Video%20Player/)
