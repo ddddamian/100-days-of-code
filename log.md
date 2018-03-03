@@ -581,3 +581,23 @@
 **Thoughts**: JS30 is a fun course.
 
 **Link(s) to work**: [JS30 lesson 11](https://github.com/ddddamian/JavaScript30/tree/master/11-Custom%20Video%20Player/)
+
+
+
+### Day 61: March 02, 2018
+
+**Today's Progress**: Finished JS30 lesson 12.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 12](https://github.com/ddddamian/JavaScript30/blob/master/12-Key%20Sequence%20Detection/index.html)
+
+
+
+### Day 62: March 03, 2018
+
+**Today's Progress**: Finished JS30 lesson 13.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 13](https://github.com/ddddamian/JavaScript30/blob/master/13-Slide%20in%20on%20scroll/index.html)
