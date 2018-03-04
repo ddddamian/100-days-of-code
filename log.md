@@ -601,3 +601,13 @@
 **Thoughts**: JS30 is a fun course.
 
 **Link(s) to work**: [JS30 lesson 13](https://github.com/ddddamian/JavaScript30/blob/master/13-Slide%20in%20on%20scroll/index.html)
+
+
+
+### Day 63: March 04, 2018
+
+**Today's Progress**: Finished JS30 lesson 14.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 14](https://github.com/ddddamian/JavaScript30/blob/master/14-JavaScript%20Reference%20vs%20Copy/index.html)
