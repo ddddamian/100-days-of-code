@@ -606,7 +606,7 @@
 
 ### Day 63: March 04, 2018
 
-**Today's Progress**: Finished JS30 lesson 14.
+**Today's Progress**: Finished JS30 lesson 14. Did some more C# on "Treehouse" - objects.
 
 **Thoughts**: JS30 is a fun course.
 
