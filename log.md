@@ -611,3 +611,31 @@
 **Thoughts**: JS30 is a fun course.
 
 **Link(s) to work**: [JS30 lesson 14](https://github.com/ddddamian/JavaScript30/blob/master/14-JavaScript%20Reference%20vs%20Copy/index.html)
+
+
+
+### Day 64: March 05, 2018
+
+**Today's Progress**: Started JS30 lesson 15. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 15](https://github.com/ddddamian/JavaScript30/blob/master/15-LocalStorage/index.html)
+
+
+
+### Day 65: March 06, 2018
+
+**Today's Progress**: Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+
+
+### Day 66: March 07, 2018
+
+**Today's Progress**: Finished JS30 lesson 15. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 15](https://github.com/ddddamian/JavaScript30/blob/master/15-LocalStorage/index.html)
