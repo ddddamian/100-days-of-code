@@ -639,3 +639,45 @@
 **Thoughts**: JS30 is a fun course.
 
 **Link(s) to work**: [JS30 lesson 15](https://github.com/ddddamian/JavaScript30/blob/master/15-LocalStorage/index.html)
+
+
+
+### Day 67: March 08, 2018
+
+**Today's Progress**: Started JS30 lesson 16. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 16](https://github.com/ddddamian/JavaScript30/blob/master/16-Mouse%20Move%20Shadow/index.html)
+
+
+
+### Day 68: March 09, 2018
+
+**Today's Progress**: Finished JS30 lesson 16. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 16](https://github.com/ddddamian/JavaScript30/blob/master/16-Mouse%20Move%20Shadow/index.html)
+
+
+
+
+### Day 69: March 10, 2018
+
+**Today's Progress**: Finished JS30 lesson 17. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 17](https://github.com/ddddamian/JavaScript30/blob/master/17-Sort%20Without%20Article/index.html)
+
+
+
+
+### Day 70: March 11, 2018
+
+**Today's Progress**: Finished JS30 lesson 18. Did some more C# on "Treehouse" - objects.
+
+**Thoughts**: JS30 is a fun course.
+
+**Link(s) to work**: [JS30 lesson 18](https://github.com/ddddamian/JavaScript30/blob/master/18-Tally%20String%20Times%20with%20Reduce/index.html)
